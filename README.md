@@ -1,5 +1,5 @@
 # PTNDataset
-Collection and description code associated to the PTNDataset
+Collection and description code associated to the PTNDataset. Equal contribution from [Amirsiavosh Bashardoust](https://github.com/vosh-96).
 
 # Usage
 ## Prior to data collection
